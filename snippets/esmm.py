@@ -1,4 +1,4 @@
-
+import tensorflow as tf
 # group_fea_arr: 每个field的embedding
 # all_fea: 将所有field embedding拼接在一起，准备接入上层网络
 # 所有底层特征的embedding都是共享的

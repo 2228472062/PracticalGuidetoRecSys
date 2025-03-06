@@ -1,6 +1,0 @@
-{
-    "files.autoSave": "onFocusChange",
-    "python.formatting.autopep8Args": [
-        "--max-line-length=500"
-    ]
-}
